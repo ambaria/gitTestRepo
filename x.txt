@@ -9,33 +9,3 @@ Author: ambaria <ambarish@couture.ai>
 Date:   Tue Mar 3 16:13:29 2020 +0530
 
     Update abcd.txt
-
-commit b45acbba2a99015f102547353dd40c11cd0cfe18
-Author: admin <ad@ad.com>
-Date:   Mon Mar 2 20:06:50 2020 +0530
-
-    Added file
-
-commit fe69a0ce679cf74522a952c5af31014d02f2acd1
-Author: admin <ad@ad.com>
-Date:   Mon Mar 2 20:02:48 2020 +0530
-
-    Added testFile2.ipynb
-
-commit f95a197e0594d3f094ac7529d753ce85add52a58
-Author: ambaria <ambarish@couture.ai>
-Date:   Mon Mar 2 19:42:48 2020 +0530
-
-    Update abcd.txt
-
-commit 94487c94d7347f64ca2fc272b12e3564b292a0d8
-Author: admin <ad@ad.com>
-Date:   Mon Mar 2 17:56:58 2020 +0530
-
-    msg
-
-commit ab9af887693e93ead7672e16c6054770e6b0c34b
-Author: AnubhavUjjawal <anubhavujjawal@gmail.com>
-Date:   Thu Feb 27 15:19:07 2020 +0530
-
-    initial commit
