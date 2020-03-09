@@ -1,3 +1,8 @@
 Hello World!
 Hello World2
 hello birdsss
+
+Unlike the in operator which is evaluated to a boolean value, the find method returns an integer.
+
+This integer is essentially the index of the beginning of the substring if the substring exists, otherwise -1 is returned.
+
